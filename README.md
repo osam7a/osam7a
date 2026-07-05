@@ -35,7 +35,7 @@ A system for automated Adhan and Adhkar playback across connected speakers, desi
 ---
 
 ### Audio Visualizer
-[https://audio-visualizer.com]
+[https://audio-visualizer.com](https://audio-visualizer.com)
 A web-based audio visualization tool focused on performance and exportability.
 
 - Ranked on the first page for multiple Google search keywords  
