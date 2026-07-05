@@ -1,23 +1,100 @@
-<h1 align="center">Hi 👋, I'm Osama</h1>
-<h3 align="center">A Young Enthusiast in the programming field, specializing in sectors including not limited to: Data Analysis/Extraction, APIs, and Web Development.</h3>
+# 👋 Hey, I’m Ousama
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=osam7a&label=Profile%20views&color=0e75b6&style=flat" alt="osam7a" /> </p>
+![Profile Views](https://komarev.com/ghpvc/?username=osam7a&label=Profile%20views&color=0e75b6&style=flat)
+![GitHub followers](https://img.shields.io/github/followers/osam7a?label=Followers&style=social)
+![Stars](https://img.shields.io/github/stars/osam7a?affiliations=OWNER%2CCOLLABORATOR&style=social)
 
-- 🌱 I’m currently learning **Django, Software Structures, and Linux.**
+I build software like systems, not pages.
 
-- 👨‍💻 All of my projects are available at [https://github.com/osam7a](https://github.com/osam7a)
+Most of what I work on starts as a real-world friction point (manual work, messy workflows, or physical processes that should be digital) and turns into structured, automated products. I’m especially drawn to SaaS products and AI-assisted development workflows, as well as knowing how to integrate software solutions within businesses.
 
-- 💬 Ask me about **Python, Web Development & Scraping, Javascript.**
+---
 
-- 📫 How to reach me **osamaziadalhinawi@gmail.com**
+## 📊 GitHub Stats
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=osam7a&show_icons=true&theme=default&hide_border=true)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+![GitHub Streak](https://streak-stats.demolab.com?user=osam7a&hide_border=true)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=osam7a&show_icons=true&locale=en&layout=compact" alt="osam7a" /></p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=osam7a&layout=compact&hide_border=true)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=osam7a&" alt="osam7a" /></p>
+> Total contributions are automatically tracked by GitHub and reflected in the stats above (no manual maintenance needed).
+
+---
+
+## 🚀 What I’ve been working on
+
+### Muthakkir
+A system for automated Adhan and Adhkar playback across connected speakers, designed for continuous, low-maintenance operation in homes, offices, and shared spaces.
+
+- Focus: always-on automation + scheduled audio systems  
+- Designed for reliability and minimal user interaction  
+- Instagram: [link](https://instagram.com/muthakkir.athan)
+- TikTok: [link](https://tiktok.com/@muthakkir.athan)
+
+---
+
+### Audio Visualizer
+[https://audio-visualizer.com]
+A web-based audio visualization tool focused on performance and exportability.
+
+- Ranked on the first page for multiple Google search keywords  
+- Peaked at **8.3K exports in one month**  
+- Reached **7.8K active users**  
+- Built around performance-focused frontend rendering and SEO optimization  
+
+---
+
+### AI Business Workflow Experiments
+I’ve been experimenting with AI-driven business workflows, focused on automating core growth and operational systems.
+
+- Lead acquisition pipelines  
+- Content automation systems  
+- AI-assisted marketing and distribution workflows  
+- Focus on turning repetitive business operations into scalable automated systems  
+
+---
+
+## 🧠 Achievements
+
+- 🏆 10th Place — UAE Hackathon  
+- 🥇 1st Place — AUS Computing Competition (’26)  
+- 🥇 1st Place — AUD Engineering Competition (’26)  
+- 🥇 1st Place — EngageX Hackathon by Etisalat  
+
+---
+
+## 🧰 Tech Stack
+Pragmatic, not ideological! I choose a tech stack depending on a project's requirements, developing team, and overall conditions.
+
+- **Frontend:** Expo / React Native, HTML, TailwindCSS, DaisyUI  
+- **Backend:** Django, SQLite, REST APIs  
+- **AI / Automation:** LLM APIs, vision models, Claude Code workflows  
+- **Automation:** workflow tools, API integrations, orchestration systems  
+- **Systems:** Linux environments, deployment tooling  
+
+---
+
+## 🔍 How I Work
+
+- Systems over features  
+- Fast iteration and real-world validation  
+- Heavy focus on automation and elimination of repetitive work  
+- SaaS-first thinking with strong emphasis on scalability and monetization  
+- AI as a core development layer, not just a feature  
+
+---
+
+## 🎯 Direction
+
+- Build and ship multiple SaaS products  
+- Turn real-world workflows into scalable systems  
+- Use AI to reduce complexity in software development  
+- Move from building apps → building infrastructure-like products  
+
+---
+
+## 📫 Contact
+
+- GitHub: https://github.com/osam7a  
+- Email: [osamaziadalhinawi@gmail.com]  
