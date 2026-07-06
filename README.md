@@ -12,11 +12,7 @@ Most of what I work on starts as a real-world friction point (manual work, messy
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=osam7a&show_icons=true&theme=default&hide_border=true)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=osam7a&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=osam7a&layout=compact&hide_border=true)
 
 > Total contributions are automatically tracked by GitHub and reflected in the stats above (no manual maintenance needed).
 
