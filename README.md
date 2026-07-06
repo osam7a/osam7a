@@ -4,7 +4,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/osam7a?label=Followers&style=social)
 ![Stars](https://img.shields.io/github/stars/osam7a?affiliations=OWNER%2CCOLLABORATOR&style=social)
 
-I build software like systems, not pages.
+I am an 18-year-old entrepreneur and software developer.
 
 Most of what I work on starts as a real-world friction point (manual work, messy workflows, or physical processes that should be digital) and turns into structured, automated products. I’m especially drawn to SaaS products and AI-assisted development workflows, as well as knowing how to integrate software solutions within businesses.
 
